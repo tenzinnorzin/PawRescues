@@ -1,2 +1,2 @@
 # PawRescues
-a stary dog adoption website
+A stray dog adoption website to adopt your furry friends
